@@ -38,6 +38,8 @@ tinyllama-chatbot/
 
 └── README.md         # Project documentation
 
+__ Output Images
+
 ---
 
 ## ⚙️ How It Works
