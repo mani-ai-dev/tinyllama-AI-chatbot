@@ -113,7 +113,3 @@ Built as part of a Prompt Engineering project
 Platform: Google Colab + Streamlit + ngrok
 
 ---
-
-## 📜 License
-
-MIT License — free to use and modify
